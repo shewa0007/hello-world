@@ -8,6 +8,8 @@ public class Tools {
 	
 	public static void main(String[] args) {
 		sayHello("shewa007");
+		sayHello("Tom");
+		sayHello("Jerry");
 	}
 }
 
